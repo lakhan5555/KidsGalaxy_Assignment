@@ -16,7 +16,7 @@ When Admin click on Solved checkbox on the specific task, the task will appear i
 
 Use Vscode for below activities.
 
--> For Django
+# Django
 
 Make sure you have Python installed.
 
