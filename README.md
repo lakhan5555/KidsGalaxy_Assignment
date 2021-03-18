@@ -1,6 +1,6 @@
 # KidsGalaxy_Assignment
 
-#About
+# About
 
 It's a single-page application (SPA) which is built using React for frontend and Django REST Framework for API.
 
